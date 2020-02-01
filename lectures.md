@@ -11,6 +11,7 @@ permalink: /lectures/
 |[3](https://www.youtube.com/)|16 January 2020|[From Continuous to Discrete Mathematics (PDF)](/lectures/lecture_3_continuous_discrete_math.pdf)
 |[4](https://www.youtube.com/)|21 January 2020|[Discrete Functions (PDF)](/lectures/lecture_4_math_discrete.pdf)
 |[5](https://www.youtube.com/)|23 January 2020|[Introduction to Optimization (PDF)](/lectures/lecture_5_intro_optimization.pdf)
+|[6](https://jnijnijigigiygi/)|30 January 2020|[jgt5hgin5tig5igni5tngij5 (PDF)](lectures/lecture_5_intro_optimization.pdf)
 
 <!--
 |[6](https://www.youtube.com/)|12 September 2019|[Ingredients for Machine Learning (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
